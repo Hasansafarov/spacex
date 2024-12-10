@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-image: url("./a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+header nav a{
+    color: #fcfbfb;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 900;
+}
+header nav {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+header nav .links {
+    display: flex;
+    gap: 30px;
+
+}
+header nav .s {
+    display: flex;
+    gap: 20px;
+    
+}
+.s i{
+    color: #fdfdfd;
+    
+}
+header .dav{
+    padding-top: 300px;
+    padding-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header .dav h3, main section h3 {
+    color: white;
+    font-size: 20px;
+}
+header .dav h1,main section h1 {
+    font-size: 50px;
+    color: white;
+    margin: 20px 0;
+}
+header .dav button, main section button {
+    padding: 15px 35px;
+ background-color: #00000000;
+ border: 2px solid white;
+ color: #fdfdfd;
+}
+header .dav button:hover, main section button:hover{
+    background-color: #fff;
+    transition: 0.5;
+    color: aqua;
+    cursor: pointer;
+}
+main .dav1{
+background-image: url("./Starlink_G9_13_Lompoc_Streak_4380_Desktop_4e380e83cf.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 300px;
+padding-left: 100px;
+padding-top: 300px;
+}
+main .dav2{
+    background-image: url("./Starlink_6_65_Streak_DESKTOP_1_fda427081c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    padding-left: 100px;
+    padding-top: 300px;
+    }
+    main .dav3{
+        background-image: url("./Star6_76_112624_DSC_8978_desktop_4497307c1c.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 300px;
+        padding-left: 100px;
+        padding-top: 300px;
+        }
+        main .dav4{
+            background-image: url("./Starlink_G9_13_Lompoc_Streak_4380_Desktop_4e380e83cf.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 300px;
+            padding-left: 100px;
+            padding-top: 300px;
+            }
+            main .dav5{
+                background-image: url("./Star6_76_112624_DSC_8978_desktop_4497307c1c.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;
+                height: 300px;
+                padding-left: 100px;
+                padding-top: 300px;}
+                main .dav6{
+                    background-image: url("./Eva_Suit_Desktop_alternate_1cf9bae18e.jpg");
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 300px;
+                    padding-left: 100px;
+                    padding-top: 300px;}
+                    main .dav7{
+                        background-image: url("./make_life_multiplanetary_desktop_3fa7cff73c.jpg");
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                        height: 300px;
+                        padding-left: 100px;
+                        padding-top: 300px;}
+                        footer{
+                            display: flex;
+                            justify-content: center;
+                            gap: 20px;
+                        color: #fcfbfb;
+                    background-color: #000000;
+                font-size: 12px;
+            padding: 40px 0;}
+                   
